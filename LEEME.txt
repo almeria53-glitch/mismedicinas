@@ -1,0 +1,9 @@
+Mis medicinas (app Android, sin Internet)
+
+1. Sube esta carpeta a tu repositorio de GitHub.
+2. En GitHub, pestaña Actions > "Compilar APK" > cuando termine, abajo en
+   "Artifacts" descarga MisMedicinas-APK.
+3. Descomprime e instala el APK.
+
+El proyecto lleva su propia clave de firma: los APK siguientes se instalan
+encima sin perder los datos.
